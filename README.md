@@ -1,6 +1,2 @@
-# My Bookmarks
-- [Lorem ipsum](google.com)
-- [Testing](google.com)
-- [test1](google.com)
-- [test2](google.com)
+404: Not Found
 - [test3](google.com)
